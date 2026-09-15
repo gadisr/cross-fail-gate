@@ -1,0 +1,5 @@
+{
+  "diff_id": "fix_assertion",
+  "claimed_signatures": ["assertion_failed_line_42"],
+  "note": "Change validation logic at line 42"
+}
