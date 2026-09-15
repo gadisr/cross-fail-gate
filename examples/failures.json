@@ -1,0 +1,27 @@
+[
+  {
+    "episode_id": "ep_001",
+    "failure_signature": "timeout_after_10s",
+    "metadata": {"test": "integration_api", "timestamp": "2026-09-10T10:00:00Z"}
+  },
+  {
+    "episode_id": "ep_002",
+    "failure_signature": "timeout_after_10s",
+    "metadata": {"test": "integration_api", "timestamp": "2026-09-11T14:30:00Z"}
+  },
+  {
+    "episode_id": "ep_003",
+    "failure_signature": "timeout_after_10s",
+    "metadata": {"test": "integration_api", "timestamp": "2026-09-12T09:15:00Z"}
+  },
+  {
+    "episode_id": "ep_004",
+    "failure_signature": "null_pointer_exception",
+    "metadata": {"test": "unit_parser", "timestamp": "2026-09-13T16:45:00Z"}
+  },
+  {
+    "episode_id": "ep_005",
+    "failure_signature": "assertion_failed_line_42",
+    "metadata": {"test": "unit_validator", "timestamp": "2026-09-14T11:20:00Z"}
+  }
+]

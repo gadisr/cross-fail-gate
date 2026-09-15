@@ -1,0 +1,5 @@
+{
+  "diff_id": "fix_timeout_handling",
+  "claimed_signatures": ["timeout_after_10s"],
+  "note": "Increase timeout from 10s to 30s in API integration layer"
+}
